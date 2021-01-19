@@ -1,0 +1,31 @@
+
+.mainBody
+{
+	width: 940px;
+	height: 100%;
+	padding-left: 25%;
+	padding-right: 25%;
+}
+.logo
+{
+	margin-left: 25%;
+	margin-right:25%;
+	float: left;
+}
+.listas
+{
+margin-left: 25%;
+	margin-right:25%;
+	float: left;	
+}
+ul {
+    list-style-type: none;
+}
+ul li ul li 
+{
+	font-size: 20px;
+}
+ul li 
+{
+	font-size: 40px;
+}
