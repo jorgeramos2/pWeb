@@ -20,7 +20,7 @@
 }
 .contenido
 {
-	width: 940px;
+	width: 900px;
 	float:left;
 	display: flex;
 	flex-direction: column;
@@ -31,12 +31,13 @@ input
 {
 	width: 50%;
 	height: 50px;
-	margin-left: 5%;
+	margin-left: 10%;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	border-radius: 20px;
 	border: none;
 	background-color: #F1F1F1;
+	text-indent: 10px;
 }
 button 
 {
@@ -44,7 +45,7 @@ button
 	height: 50px;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	margin-left: 10%;
+	margin-left: 15%;
 	border-radius: 20px;
 	color:white;
 	background-color: #20ADE2;
@@ -55,4 +56,21 @@ button
 body
 {
 	background-color: #20ADE2;
+}
+.saludo
+{
+	font-size: 64px;
+	font-weight: bold;
+	margin-left: 7%;
+	margin-top: 20px;
+}
+
+hr{
+	width: 860px;
+	height: 1px;
+	border-width: 0px;
+	margin-left: 20px;
+	margin-right: 20px;
+	color: gray;
+	background-color: gray;
 }
