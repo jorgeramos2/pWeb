@@ -1,0 +1,58 @@
+.background
+{
+	width: 940px;
+	height: 100%;
+	padding-left: 25%;
+	padding-right: 25%;
+	
+}
+.top
+{
+	float: left;
+	display: flex;
+	flex-direction: row;
+}
+.top img
+{
+	width:621px;
+	height: 138px;
+
+}
+.contenido
+{
+	width: 940px;
+	float:left;
+	display: flex;
+	flex-direction: column;
+	background-color: white;
+	border-radius: 20px;
+}
+input
+{
+	width: 50%;
+	height: 50px;
+	margin-left: 5%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+	border: none;
+	background-color: #F1F1F1;
+}
+button 
+{
+	width: 40%;
+	height: 50px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10%;
+	border-radius: 20px;
+	color:white;
+	background-color: #20ADE2;
+	text-align: center;
+    text-decoration: none;
+    border: none;
+}
+body
+{
+	background-color: #20ADE2;
+}
